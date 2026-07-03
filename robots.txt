@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a91131102-pixel.github.io/capitalis-app/sitemap.xml
